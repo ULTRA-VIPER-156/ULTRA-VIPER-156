@@ -1,28 +1,5 @@
 
 
-<!---h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Field] from [Your Country]</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
-
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Technologies you're learning]**
-- 👯 I’m looking to collaborate on **[Collaborative Project/Idea]**
-- 💬 Ask me about **[Skills/Technologies you’re comfortable with]**
-- 📫 How to reach me **[Your Email]**
-- ⚡ Fun fact **[Fun Fact about you]**
-
----
-
-<h2 align="center">🔥 My Stats 🔥</h2>
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
 
 ---
 
@@ -55,6 +32,18 @@
   <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" /></a>
   <a href="https://yourwebsite.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=firefox&logoColor=white" alt="portfolio" /></a>
 </p>
+<pre>
+<h1>
+  ........Now Listening .......
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3s7IKFITafjRpv06BZyEoD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1WgXqy2Dd70QQOU7Ay074N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  
+</h1>
+
+
+  
+</pre>
 
 ---
 
