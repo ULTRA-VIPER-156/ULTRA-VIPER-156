@@ -1,6 +1,12 @@
 # Profile
-
----
+<h1>My profile</h1>
+<pre>
+  hello there my name is Jonathan Im currently a student studying 
+  computer Science and I like to dwell on side projects here and
+  there ,Recently ive taken up web development ,(Both on the
+  frontend and the backend ,soon to start other programming
+  projects I might have  an Intrest on :)
+</pre>
 
 ## 🚀 Languages and Tools 🚀
 <p align="center">
@@ -10,10 +16,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
----
-
-
----
 
 ## 🎉 Let's Connect! 🎉
 <p align="center">
