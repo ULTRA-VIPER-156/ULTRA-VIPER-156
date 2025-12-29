@@ -1,6 +1,6 @@
 # 💫 About Me:
-🟠Web development ,object orianted 
-🎗programming ,literally anything that seems cool and fun <br><br>Just coding 🟡in general <br>I'm a student <br>And 🟢I love experimenting with projects 🔵and side work<br>Very strong ⚪️interest in technology 
+Web development ,object orianted 
+🎗programming ,literally anything that seems cool and fun <br><br>Just coding in general <br>I'm a student <br>And I love experimenting with projects and side work<br>Very strong interest in technology 
 
 
 
