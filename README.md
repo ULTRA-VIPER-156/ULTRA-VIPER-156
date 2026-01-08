@@ -16,7 +16,7 @@ $ neofetch
 
 <a href="https://UltraViper.pythonanywhere.com/link">
   <img
-    src="https://{PA_USERNAME}.pythonanywhere.com"
+    src="https://UltraViper.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
