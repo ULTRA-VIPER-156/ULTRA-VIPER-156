@@ -11,6 +11,6 @@ $ neofetch
   Frameworks: React,React-Native,Vue.js Node.js<br>
   Interests: Systems, AI, Web Learning: Low-level, ML, Graphics<br>
   Location: South Africa <br>
-  Uptime: Always grinding<br>
+  Uptime: well Coffee keeps me awake <br>
 </pre> </td> </tr> </table> </div>
 
