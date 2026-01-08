@@ -5,8 +5,10 @@
 $ neofetch
 <div align="center"> <table> <tr> <td> <img src="https://i.pinimg.com/1200x/f8/b4/97/f8b49716f2ac7a0cf38a66c0196b2f22.jpg" width="260"/> </td> <td> <pre> https://github.com/ULTRA-VIPER-156 --
   <br>
-  OS: Arch Linux x86_64 Shell: <br>
-  zsh Editor: Neovim Languages: Java, Python, C#, JavaScript Frameworks: React, Node.js<br>
+  OS:Windows 11 unfortunetly : <br>
+  zsh Editor: VS Code
+  Languages: Java, Python, C#, JavaScript,html ,css,tailwind<br>
+  Frameworks: React,React-Native,Vue.js Node.js<br>
   Interests: Systems, AI, Web Learning: Low-level, ML, Graphics<br>
   Location: South Africa <br>
   Uptime: Always grinding<br>
