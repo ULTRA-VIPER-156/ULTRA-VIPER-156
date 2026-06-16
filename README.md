@@ -1,9 +1,14 @@
-<h1 align="center">
+<img width="720" height="720" alt="a5e2ae9be69193c32e050e955482f128" src="https://github.com/user-attachments/assets/d9935060-e726-426d-bd95-c5f1b3dd4a7d" /><h1 align="center">
   Jonathan</h1>
 
 
 $ neofetch
-<div align="center"> <table> <tr> <td> <img src="https://i.pinimg.com/1200x/f8/b4/97/f8b49716f2ac7a0cf38a66c0196b2f22.jpg" width="260"/> </td> <td> <pre> https://github.com/ULTRA-VIPER-156 --
+<div align="center"> <table> <tr> <td> 
+
+<img width="720" height="720" alt="a5e2ae9be69193c32e050e955482f128" src="https://github.com/user-attachments/assets/9178e41c-6465-47a1-b651-ef3d756fa8bc" />
+
+
+</td> <td> <pre> https://github.com/ULTRA-VIPER-156 --
   <br>
   OS:Windows 11 unfortunetly : <br>
   zsh Editor: VS Code
@@ -13,6 +18,9 @@ $ neofetch
   Location: South Africa <br>
   Uptime: well Coffee keeps me awake <br>
 </pre> </td> </tr> </table> </div>
+
+
+
 
 
 
