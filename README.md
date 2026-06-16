@@ -22,8 +22,6 @@ Editor: VS Code
 
 Languages:
 • Java
-• Python
-• C#
 • JavaScript
 • HTML
 • CSS
@@ -32,18 +30,7 @@ Languages:
 Frameworks:
 • React
 • React Native
-• Vue.js
 • Node.js
-
-Interests:
-• Systems
-• AI
-• Web Development
-
-Learning:
-• Low-Level Programming
-• Machine Learning
-• Graphics
 
 Location: South Africa
 Uptime: Coffee keeps me awake
