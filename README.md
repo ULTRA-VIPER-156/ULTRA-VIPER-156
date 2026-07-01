@@ -1,5 +1,4 @@
 <h1 align="center">Jonathan</h1>
-
 <div align="center">
   <table>
     <tr>
@@ -13,29 +12,36 @@
       <td>
         <pre>
 $ neofetch
-
 GitHub: https://github.com/ULTRA-VIPER-156
-
 OS: Windows 11 unfortunately :)
 Shell: zsh
 Editor: VS Code
-
 Languages:
-• Java
-• JavaScript
-• HTML
-• CSS
-• Tailwind
-
+- Java
+- JavaScript
+- HTML
+- CSS
+- Tailwind
 Frameworks:
-• React
-• React Native
-• Node.js
-
+- React
+- React Native
+- Node.js
 Location: South Africa
 Uptime: Coffee keeps me awake
         </pre>
       </td>
     </tr>
   </table>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ULTRA-VIPER-156&show_icons=true&theme=synthwave&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ULTRA-VIPER-156&theme=radical&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ULTRA-VIPER-156&theme=radical&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ULTRA-VIPER-156&label=Profile%20Views&color=blueviolet&style=flat" />
 </div>
