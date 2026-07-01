@@ -33,16 +33,15 @@ Uptime: Coffee keeps me awake
     </tr>
   </table>
 </div>
-
-<div align="center">
+  <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ULTRA-VIPER-156&theme=radical&hide_border=true" />
+  <img width="32%" src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=ULTRA-VIPER-156&theme=nord_dark" />
 </div>
-<div align="center">
 
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ULTRA-VIPER-156&theme=radical&hide_border=true" />
 </div>
- <br>
-  <hr>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ULTRA-VIPER-156&label=Profile%20Views&color=blueviolet&style=flat" />
 </div>
